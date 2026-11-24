@@ -2,15 +2,15 @@
 layout: project_page
 permalink: /
 
-title: CONSTANT$:$ Towards High-Quality One-Shot Handwriting Generation with Patch Contrastive Enhancement and Style-Aware Quantization<br>WACV 2026 (Oral)
+title: CONSTANT$:$ Towards High-Quality One-Shot Handwriting Generation with Patch Contrastive Enhancement and Style-Aware Quantization<br>WACV 2026 (Oral, Best Paper Award Finalist)
 authors:
     Anh-Duy Le, Van-Linh Pham, Thanh-Nam Vo, Xuan Toan Mai, Tuan-Anh Tran
 affiliations:
     Viettel Artificial Intelligence and Data Services Center, Vietnam<br>Ho Chi Minh City University of Technology, Vietnam
-paper: https://github.com/duylebkHCM/CONSTANT 
-video: https://github.com/duylebkHCM/CONSTANT
+paper: https://arxiv.org/abs/2603.07543
+video: https://www.youtube.com/watch?v=UZCcP25-KLk
 code: https://github.com/duylebkHCM/CONSTANT
-data: https://github.com/duylebkHCM/CONSTANT
+data: https://drive.google.com/drive/folders/1xpMceSRqbcRKcson7LIrISdPbC1srPDo?usp=drive_link
 ---
 
 <!-- Using HTML to center the abstract -->
